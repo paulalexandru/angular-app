@@ -1,0 +1,39 @@
+[{
+	"name": "Dodecahedron",
+	"price": 2.95,
+	"description": "Some gems have hidden qualities beyond their luster.",
+	"canPurchase": true,
+	"soldOut": false,
+	"images": [{
+		"full": "gem1-full.jpg",
+		"thumb": "gem1-thumb.jpg"
+	}],
+	"reviews": [{
+		"stars": 5,
+		"body": "I love this product!",
+		"author": "joe@thomas.com"
+	}, {
+		"stars": 1,
+		"body": "This product sucks!",
+		"author": "tim@hater.com"
+	}]
+}, {
+	"name": "Pentagonal Gem",
+	"price": 5.95,
+	"description": "Some gems have hidden qualities beyond their luster.",
+	"canPurchase": true,
+	"soldOut": false,
+	"images": [{
+		"full": "gem2-full.jpg",
+		"thumb": "gem2-thumb.jpg"
+	}],
+	"reviews": [{
+		"stars": 1,
+		"body": "This product sucks!",
+		"author": "joe@thomas.com"
+	}, {
+		"stars": 5,
+		"body": "I love this product!",
+		"author": "tim@hater.com"
+	}]
+}]
