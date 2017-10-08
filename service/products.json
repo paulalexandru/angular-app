@@ -7,6 +7,9 @@
 	"images": [{
 		"full": "gem1-full.jpg",
 		"thumb": "gem1-thumb.jpg"
+	},{
+		"full": "gem2-full.jpg",
+		"thumb": "gem2-thumb.jpg"
 	}],
 	"reviews": [{
 		"stars": 5,
@@ -26,6 +29,9 @@
 	"images": [{
 		"full": "gem2-full.jpg",
 		"thumb": "gem2-thumb.jpg"
+	},{
+		"full": "gem1-full.jpg",
+		"thumb": "gem1-thumb.jpg"
 	}],
 	"reviews": [{
 		"stars": 1,
